@@ -48,6 +48,6 @@ public class Jugador extends Futbolista {
 				" tiene " + this.getEdad() + 
 				", y juega de " + this.getPosicion() + 
 				" con el dorsal " + this.getDorsal() + 
-				". Ha marcado" + this.getGolesMarcados();
+				". Ha marcado " + this.getGolesMarcados();
 	}
 }
