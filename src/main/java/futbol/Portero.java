@@ -42,6 +42,6 @@ public class Portero extends Futbolista {
 				" tiene " + this.getEdad() + 
 				", y juega de " + this.getPosicion() + 
 				" con el dorsal " + this.getDorsal() + 
-				". Le han marcado" + this.getGolesRecibidos();
+				". Le han marcado " + this.getGolesRecibidos();
 	}
 }
